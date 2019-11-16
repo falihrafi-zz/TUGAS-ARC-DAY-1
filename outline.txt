@@ -1,0 +1,15 @@
+1. BIODATA
+- Nama
+- Tempat tanggal lahir
+- Pendidikan saat ini
+- Tempat tinggal/asal daerah
+
+2. Experience
+- OSIS SMP Labschool Jakarta
+- OSIS SMAN 8 Jakarta
+- Mentor OSKM ITB 2019
+- Juara I Telco Ideathons 2019
+
+3. Projects
+
+4. Contacts

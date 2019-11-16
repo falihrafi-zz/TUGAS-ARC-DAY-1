@@ -1,0 +1,310 @@
+body{
+    background-color:#D8BFD8;
+}
+
+#headerdiv{
+    position:fixed;
+    width:100%;
+    height:40px;
+    background-color:#8A2BE2;
+    top:0px;
+    left:0px;
+}
+
+#header{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-size:20px;
+    vertical-align:middle;
+    margin-top:5px;
+    margin-left:5px;
+    padding:0px;
+}
+
+#pasfotodiv{
+	position:absolute;
+	top:75px;
+	width:100%;
+	text-align:center;
+	margin-top:100px;
+}
+
+#pasfoto{
+	position:absolute;
+	left:180px;
+	width:300px;
+	height:300px;
+	border-radius: 180px;
+	border: 15px solid #8A2BE2;
+}
+
+#biodatanama{
+	position:absolute;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 26px;
+	color: white;
+	background-color:#8A2BE2;
+	border-radius:20px;
+	height:30px;
+	width:300px;
+	margin-top:-10px;
+    vertical-align:middle;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:75px;
+    top:240px;
+	left:625px;
+}
+
+#biodatajurusan{
+	position:absolute;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 26px;
+	color: white;
+	background-color:#8A2BE2;
+	border-radius:20px;
+	height:30px;
+	width:350px;
+	margin-top:-10px;
+    vertical-align:middle;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:75px;
+    top:330px;
+	left:600px;
+}
+
+#biodatanim{
+	position:absolute;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 26px;
+	color: white;
+	background-color:#8A2BE2;
+	border-radius:20px;
+	height:30px;
+	width:175px;
+	margin-top:-10px;
+    vertical-align:middle;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:75px;
+    top:420px;
+	left:690px;
+}
+
+#pendidikandiv{
+	position:absolute;
+	width:100%;
+	height:75px;
+	background-color:#8A2BE2;
+	text-align:center;
+	top:700px;
+}
+
+#pendidikan{
+	position:absolute;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 40px;
+	color: white;
+	background-color:#8A2BE2;
+	border-radius:30px;
+	height:80px;
+	width:500px;
+	margin-top:-10px;
+	vertical-align:middle;
+	padding-top:30px;
+	left:380px;
+}
+
+#pendidikansd{
+    position:absolute;
+    width:300px;
+    height:300px;
+    background-color:#8A2BE2;
+    top:150px;
+    border-radius:50px;
+    margin-left:5px;
+}
+
+#fotosd{
+    margin-top:25px;
+	width:200px;
+	height:200px;
+	border-radius: 180px;
+}
+
+#pendidikansmp{
+    position:absolute;
+    width:300px;
+    height:300px;
+    background-color:#8A2BE2;
+    top:150px;
+    border-radius:50px;
+    margin-left:318px;
+}
+
+#fotosmp{
+    margin-top:25px;
+	width:200px;
+	height:200px;
+	border-radius: 180px;
+}
+
+#pendidikansma{
+    position:absolute;
+    width:300px;
+    height:300px;
+    background-color:#8A2BE2;
+    top:150px;
+    border-radius:50px;
+    margin-left:633px;
+}
+
+#fotosma{
+    margin-top:25px;
+	width:200px;
+	height:200px;
+	border-radius: 180px;
+}
+
+#pendidikankuliah{
+    position:absolute;
+    width:300px;
+    height:300px;
+    background-color:#8A2BE2;
+    top:150px;
+    border-radius:50px;
+    margin-left:945px;
+}
+
+#fotokuliah{
+    margin-top:25px;
+	width:200px;
+	height:200px;
+	border-radius: 180px;
+}
+
+.pendidikanwarna{
+    color:white;
+}
+
+#experiencediv{
+	position:absolute;
+	width:100%;
+	height:75px;
+	background-color:#8A2BE2;
+	text-align:center;
+	top:1350px;
+}
+
+#experience{
+	position:absolute;
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 40px;
+	color: white;
+	background-color:#8A2BE2;
+	border-radius:30px;
+	height:80px;
+	width:500px;
+	margin-top:-10px;
+	vertical-align:middle;
+	padding-top:30px;
+	left:380px;
+}
+
+#experiencecontent{
+	position:absolute;
+	width:50%;
+	height:240px;
+	background-color:#8A2BE2;
+	text-align:center;
+    top:1500px;
+    margin-left:320px;
+    border-radius:50px;
+}
+
+.experienceisi{
+    color:white;
+    font-size:25px;
+    line-height:2;
+}
+
+#contactsdiv{
+    position:absolute;
+    top:2000px;
+    width:100%;
+    height:50px;
+    background-color:#8A2BE2;
+}
+
+#contacts{
+    position:absolute;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    font-size:20px;
+    vertical-align:middle;
+    margin-top:10px;
+    margin-left:5px;
+    padding:0px;
+}
+
+#gambargmail{
+    position:absolute;
+    margin-top:13px;
+    margin-left:180px;
+    width:20px;
+    height:20px;
+    border-radius:18px;
+}
+
+#contactgmail{
+    position:absolute;
+    font-size:15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:16px;
+    margin-left:210px;
+    color:white;
+}
+
+#gambarline{
+    position:absolute;
+    margin-top:15px;
+    margin-left:400px;
+    width:20px;
+    height:20px;
+    border-radius:18px;
+}
+
+#contactline{
+    position:absolute;
+    font-size:15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:16px;
+    margin-left:430px;
+    color:white;
+}
+
+#gambarwhatsapp{
+    position:absolute;
+    margin-top:14px;
+    margin-left:545px;
+    width:25px;
+    height:25px;
+    border-radius:18px;
+}
+
+#contactwhatsapp{
+    position:absolute;
+    font-size:15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top:16px;
+    margin-left:580px;
+    color:white;
+}
+
+
